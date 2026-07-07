@@ -1,5 +1,3 @@
-Here's a README for your project:
-
 CoopSoulsGame
 A co-op souls-like action RPG built in Unreal Engine 5 (C++) as a portfolio project demonstrating advanced gameplay systems engineering.
 Overview
