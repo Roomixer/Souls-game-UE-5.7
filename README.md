@@ -4,6 +4,8 @@
 <br/><br/>
 <div align="center">
 
+<div align="center">
+
 <h1><b>⚔️ CoopSoulsGame</b></h1>
 <h3><b>A co-op souls-like action RPG built in Unreal Engine 5 — all gameplay in C++</b></h3>
 <br/>
