@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="CoopSoulsGame_Banner.png" alt="CoopSoulsGame" width="100%"/>
+<br/><br/>
+<div align="center">
+
 <h1><b>⚔️ CoopSoulsGame</b></h1>
 <h3><b>A co-op souls-like action RPG built in Unreal Engine 5 — all gameplay in C++</b></h3>
 <br/>
