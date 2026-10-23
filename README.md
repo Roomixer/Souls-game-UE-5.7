@@ -87,7 +87,7 @@ Joel Shajan — Multi-discipline game developer · Bangalore, India
 
 Gameplay Programming · Technical Animation · 3D Art & World Building
 
-Show Image Email
+Email : joelshajankuttu@gmail.com
 
 Open to roles in gameplay programming, technical animation and generalist game dev.
 
