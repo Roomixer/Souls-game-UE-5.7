@@ -2,13 +2,6 @@
 
 <img src="CoopSoulsGame_Banner.png" alt="CoopSoulsGame" width="100%"/>
 <br/><br/>
-<div align="center">
-
-<div align="center">
-
-<h1><b>⚔️ CoopSoulsGame</b></h1>
-<h3><b>A co-op souls-like action RPG built in Unreal Engine 5 — all gameplay in C++</b></h3>
-<br/>
 
 <img src="Screenshots/Screenshot%202026-08-05%20130619.png" alt="Player at the boss fog gate" width="100%"/>
 
